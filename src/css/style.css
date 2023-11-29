@@ -142,6 +142,8 @@ body {
 
 .profile-image {
   width: 150px;
+  background-repeat: no-repeat;
+  background: cover;
   border-radius: 50%;
   animation: bounce 1s infinite alternate;
 }
