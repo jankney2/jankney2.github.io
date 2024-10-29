@@ -145,7 +145,7 @@ body {
   background-repeat: no-repeat;
   background: cover;
   border-radius: 50%;
-  animation: bounce 1s infinite alternate;
+  animation: bounce 2s infinite alternate;
 }
 
 @keyframes bounce {
